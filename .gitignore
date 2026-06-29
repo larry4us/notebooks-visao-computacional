@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Claude Code
+.claude
+CLAUDE.md
+Modulo3/data/
+Modulo4/fashion_data/
+Modulo4/mnist_data/
+Modulo5/data/
+Modulo5/runs/
+Modulo5/*.pt
+.venv/
+models/
