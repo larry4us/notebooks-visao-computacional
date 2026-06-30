@@ -6,7 +6,7 @@ Jupyter Notebooks da residência em Visão Computacional. Seis módulos cobrindo
 
 ## Setup
 
-Requisito: Python ≥ 3.9
+Pré-requisitos: Python 3.9 ou versões superiores.
 
 ```bash
 python -m venv .venv
