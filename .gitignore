@@ -232,3 +232,4 @@ models/
 # speckit
 specs/
 .specify/
+run_experiments.sh
