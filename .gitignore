@@ -228,3 +228,7 @@ Modulo5/runs/
 Modulo5/*.pt
 .venv/
 models/
+
+# speckit
+specs/
+.specify/feature.json
