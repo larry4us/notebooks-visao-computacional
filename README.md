@@ -4,8 +4,6 @@
 
 Notebooks da residência em Visão Computacional. Seis módulos cobrindo desde fundamentos de processamento de imagem até aplicações práticas com detecção de objetos, segmentação e modelos multimodais.
 
-Stack principal: Python, PyTorch, OpenCV, YOLO (Ultralytics), NumPy, Matplotlib.
-
 ## Setup
 
 Requisito: Python ≥ 3.9
@@ -15,14 +13,6 @@ python -m venv .venv
 source .venv/bin/activate   # macOS / Linux
 pip install -r requirements.txt
 ```
-
-Para abrir os notebooks:
-
-```bash
-jupyter notebook
-```
-
-> **GPU**: Módulo 4 (GANs) e Módulo 5 (fine-tuning YOLO) se beneficiam de GPU. Tudo roda em CPU, mas o treino fica mais lento.
 
 ## Módulos
 
@@ -99,8 +89,6 @@ Jupyter Notebooks/
 ├── requirements.txt
 └── README.md
 ```
-
-Regras:
 - Notebooks ficam em `Modulo{N}/` — sem assets ou modelos junto
 - Assets (imagens, vídeos) vão em `assets/modulo{N}/`
 - Modelos treinados (`.pt`, `.pth`) vão em `models/modulo{N}/`
