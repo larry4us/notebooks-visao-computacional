@@ -1,4 +1,4 @@
-# Módulo 2 — Características e Descritores
+# Módulo 2 — Tópicos em aprendizagem de máquina
 
 ![Preview M2](../assets/readme/m2_preview.jpg)
 

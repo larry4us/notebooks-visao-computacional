@@ -1,4 +1,4 @@
-# Módulo 3 — Detecção e Segmentação
+# Módulo 3 — Redes neurais convolucionais
 
 ![Preview M3](../assets/readme/m3_preview.jpg)
 

@@ -1,4 +1,4 @@
-# Módulo 5 — Aplicações Práticas de VC
+# Módulo 5 — Projetos reais de visão computacional
 
 Módulo de projetos aplicados — cada atividade é um problema real com dataset próprio e fine-tuning de modelo específico para a tarefa. É o módulo mais extenso e onde o pipeline de treino (carregar dataset, adaptar modelo, treinar, validar) se repete com variações em cada atividade.
 

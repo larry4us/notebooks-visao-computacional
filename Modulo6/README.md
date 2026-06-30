@@ -1,4 +1,4 @@
-# Módulo 6 — Monitoramento de Experimentos
+# Módulo 6 — ML OPS
 
 Módulo curto focado em observabilidade de treino: como acompanhar métricas em tempo real em vez de esperar o treino terminar pra ver o que aconteceu. Usa TensorBoard integrado a um loop de treino PyTorch.
 

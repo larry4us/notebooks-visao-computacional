@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 ## Módulos
 
-### Módulo 1 — Fundamentos de Visão Computacional
+### Módulo 1 — Tópicos específicos em programação aplicados a visão computacional
 
 Introdução ao processamento de imagens com OpenCV e NumPy.
 
@@ -28,7 +28,7 @@ Introdução ao processamento de imagens com OpenCV e NumPy.
 | `VC_M1A4 - Operações Básicas em Imagens.ipynb` | Crop, resize, rotação, flip, perspectiva |
 | `VC_M1A5 - Fundamentos de Filtros Espaciais e Convoluções.ipynb` | Filtros, kernels e convolução 2D |
 
-### Módulo 2 — Características e Descritores
+### Módulo 2 — Tópicos em aprendizagem de máquina
 
 Detecção de keypoints e correspondências entre imagens.
 
@@ -38,7 +38,7 @@ Detecção de keypoints e correspondências entre imagens.
 | `M2A2 - Correspondências de Características.ipynb` | Feature matching com ORB e SIFT |
 | `M2A10 - Modelos Pré-Treinados.ipynb` | Classificação com VGG-16 e ResNet-50 |
 
-### Módulo 3 — Detecção e Segmentação
+### Módulo 3 — Redes neurais convolucionais
 
 Detecção de objetos e segmentação semântica com modelos pré-treinados e fine-tuning.
 
@@ -48,7 +48,7 @@ Detecção de objetos e segmentação semântica com modelos pré-treinados e fi
 | `VC_M3A3 - Transfer learning e Refinamento com Redes Pré-treinadas .ipynb` | Fine-tuning de VGG-16 e MobileNetV2 |
 | `VC_M3A6 - Segmentação semântica.ipynb` | Segmentação com YOLO-seg e DeepLabV3 |
 
-### Módulo 4 — Geração e Modelos Avançados
+### Módulo 4 — Modelos gerativos
 
 Redes generativas e modelos multimodais.
 
@@ -57,7 +57,7 @@ Redes generativas e modelos multimodais.
 | `VC_M4A2 - GANs .ipynb` | Treino de GAN com PyTorch |
 | `VC_M4A5 - Fundamentos de Modelos Multimodais.ipynb` | Embeddings texto-imagem com CLIP |
 
-### Módulo 5 — Aplicações Práticas
+### Módulo 5 — Projetos reais de visão computacional
 
 Projetos aplicados de visão computacional em cenários reais.
 
@@ -70,7 +70,7 @@ Projetos aplicados de visão computacional em cenários reais.
 | `VC_M5A5 - Segmentação de falhas em tecidos.ipynb` | Segmentação de anomalias em tecidos |
 | `VC_M5A6 - Detecção de faixas para veículos autônomos.ipynb` | Lane detection |
 
-### Módulo 6 — Monitoramento de Experimentos
+### Módulo 6 — ML OPS
 
 | Notebook | Tema |
 |----------|------|
@@ -89,6 +89,7 @@ Jupyter Notebooks/
 ├── requirements.txt
 └── README.md
 ```
+
 - Notebooks ficam em `Modulo{N}/` — sem assets ou modelos junto
 - Assets (imagens, vídeos) vão em `assets/modulo{N}/`
 - Modelos treinados (`.pt`, `.pth`) vão em `models/modulo{N}/`

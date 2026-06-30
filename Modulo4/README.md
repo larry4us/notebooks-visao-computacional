@@ -1,4 +1,4 @@
-# Módulo 4 — Geração e Modelos Avançados
+# Módulo 4 — Modelos gerativos
 
 ![Preview M4](../assets/readme/m4_preview.jpg)
 

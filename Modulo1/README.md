@@ -1,4 +1,4 @@
-# Módulo 1 — Fundamentos de Visão Computacional
+# Módulo 1 — Tópicos específicos em programação aplicados a visão computacional
 
 ![Preview M1](../assets/readme/m1_preview.jpg)
 
