@@ -1,8 +1,8 @@
-# notebooks-visao-computacional
+# Projeto de Residência em Visão Computacional
 
 ![Banner com outputs dos módulos](assets/readme/banner.jpg)
 
-Notebooks da residência em Visão Computacional. Seis módulos cobrindo desde fundamentos de processamento de imagem até aplicações práticas com detecção de objetos, segmentação e modelos multimodais.
+Jupyter Notebooks da residência em Visão Computacional. Seis módulos cobrindo desde fundamentos de processamento de imagem até aplicações práticas com detecção de objetos, segmentação e modelos multimodais.
 
 ## Setup
 
