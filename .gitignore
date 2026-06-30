@@ -231,4 +231,4 @@ models/
 
 # speckit
 specs/
-.specify/feature.json
+.specify/
