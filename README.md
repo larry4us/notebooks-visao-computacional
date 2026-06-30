@@ -76,6 +76,17 @@ Projetos aplicados de visão computacional em cenários reais.
 |----------|------|
 | `M6A3 - Sistemas de Monitoramento de Experimentos 1.ipynb` | Logging e visualização com TensorBoard |
 
+## Desafios Extras
+
+Quatro desafios práticos desenvolvidos além das atividades dos módulos.
+
+| Desafio | Técnica | Output |
+|---------|---------|--------|
+| [Desafio 1](DesafiosExtras/Desafio1/) — Borrar Fundo | Haar Cascade + GaussianBlur | Face preservada sobre fundo borrado |
+| [Desafio 2](DesafiosExtras/Desafio2/) — Reconhecimento de Faces | OpenFace embeddings + SVM | Identificação com nome e confiança |
+| [Desafio 3](DesafiosExtras/Desafio3/) — Rastreamento de Objetos | YOLO11n `model.track()` | IDs persistentes por objeto em vídeo |
+| [Desafio 4](DesafiosExtras/Desafio4/) — Estimação de Pose | YOLO11n-pose | 17 keypoints do corpo humano |
+
 ## Estrutura do Repositório
 
 ```
